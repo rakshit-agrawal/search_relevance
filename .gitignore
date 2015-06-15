@@ -1,0 +1,9 @@
+data/
+libs/
+*.iml
+src/out*
+*.p
+## Directory-based project format:
+.idea/
+*.bak
+*.pyc
